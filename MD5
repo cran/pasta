@@ -1,0 +1,9 @@
+5971b150217f431e2049cda98f7cd592 *DESCRIPTION
+8304e347bbff16324d35df469d16c5e7 *NAMESPACE
+66c614bfd80155e2da228c4c1427727a *R/infix.R
+7d94c987070fe85a6d917dd45e768266 *build/vignette.rds
+4fcf218cc1df339cb01b7f0ea6776415 *inst/doc/pasta_intro.Rmd
+696f3bf0ebbc0c1ecd988e197810599f *inst/doc/pasta_intro.html
+1cf95a35c1701de2306cceb812050874 *man/pasta.Rd
+4fcf218cc1df339cb01b7f0ea6776415 *vignettes/pasta_intro.Rmd
+553ea5097fa1e8b283f43751e13f63b7 *vignettes/pasta_logo.jpg
